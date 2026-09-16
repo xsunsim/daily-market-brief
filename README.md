@@ -1,29 +1,6 @@
-# Daily Market Brief
+# daily-market-brief (retired)
 
-US market snapshot, auto-generated every trading day after close.
+This repo's daily market brief was reverted on 2026-09-16.
 
-## Latest — 2026-09-16
-
-### Indices
-
-| | Close | Day |
-|---|---|---|
-| S&P 500 | 7,610.06 | +0.32% |
-| Nasdaq 100 | 29,162.63 | +0.78% |
-| Dow Jones | 52,053.05 | -0.08% |
-
-### Big Tech
-
-| | Close | Day |
-|---|---|---|
-| Apple | 332.60 | +0.38% |
-| Microsoft | 493.85 | -0.66% |
-| Nvidia | 215.91 | +1.76% |
-| Tesla | 361.25 | +1.31% |
-| Meta | 676.33 | +0.91% |
-| Amazon | 247.81 | -0.25% |
-| Alphabet | 345.45 | +0.14% |
-
-## Archive
-
-- [2026-09-16](reports/2026-09-16.md)
+Daily updates now follow the arena digest format in
+[AgentStockBenchmarkResults](https://github.com/xsunsim/AgentStockBenchmarkResults) under `daily_digest/`.
